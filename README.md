@@ -1,4 +1,4 @@
-# Custom theme for zhs
+# Custom themes for zhs
 
 ## ana:
 Show path and git branch with an indicator of modified repo
